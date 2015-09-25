@@ -21,5 +21,5 @@ RelVisJs.prototype.addNode = function(name, title) {
 }
 
 RelVisJs.prototype.addPath = function(a, b) {
-  this.conns[a][conns].push(b);
+  this.conns[a]['conns'].push(b);
 }
