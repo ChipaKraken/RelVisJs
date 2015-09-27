@@ -5,7 +5,7 @@ var RelVisJs = (function(jQuery) {
     this.width = width != null ? width : 400;
     this.path = path+"_svg";
     this.conns = {};
-    jQuery(path).html('<svg id="'+this.path+'" height="'+this.height+'" width="'+this.width+'"><svg>');
+    jQuery('#'+path).html('<svg id="'+this.path+'" height="'+this.height+'" width="'+this.width+'"><svg>');
   }
   
   return RelVisJs;
