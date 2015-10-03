@@ -1,7 +1,4 @@
 # RelVisJs
 JavaScript Relation Visualizer 
-## To do 
-- Documentation 
-- Finish application 
-- Create tests 
-- Create examples
+## Discontinued
+https://github.com/jacomyal/sigma.js here is better solution
