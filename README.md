@@ -1,4 +1,2 @@
 # RelVisJs
-JavaScript Relation Visualizer 
-## Discontinued
-https://github.com/jacomyal/sigma.js here is better solution
+JavaScript Add-on for https://github.com/jacomyal/sigma.js that lets use it like Graphviz 
